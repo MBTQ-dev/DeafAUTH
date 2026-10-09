@@ -1,0 +1,4 @@
+- name: Continuous Deployment with Deno
+  # You may pin to the exact commit or the version.
+  # uses: michael-spengler/github-action-cicd@f268e03fd0829c538bf18cf4ee7d90db1dfeb4b2
+  uses: michael-spengler/github-action-cicd@v0.0.2
